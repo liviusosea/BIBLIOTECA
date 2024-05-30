@@ -15,7 +15,7 @@ class Biblioteca {
     private List<Carte> carti;
         
     
-    
+    //hai sa vedem
      //@Override
       private Biblioteca(){
           carti = new ArrayList<>();
