@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Biblioteca
+comment1.params=
+comment1.target=Biblioteca()
+comment2.params=
+comment2.target=Biblioteca\ getInstance()
+comment3.params=titlu\ autor\ Pag\ gen
+comment3.target=void\ adaugaRomane(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment4.params=titlu\ autor\ Pag\ nrDePoezii
+comment4.target=void\ adaugaPoezii(java.lang.String,\ java.lang.String,\ int,\ int)
+comment5.params=
+comment5.target=void\ afiseazaCartile()
+comment6.params=
+comment6.target=void\ afiseazaAutori()
+comment7.params=titlu\ autor
+comment7.target=void\ afiseazaCarti(java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=void\ afiseazaAutor()
+comment9.params=
+comment9.target=void\ afiseazaCartiSortate()
+numComments=10

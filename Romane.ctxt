@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Romane
+comment1.params=titlu\ autor\ Pag\ gen
+comment1.target=Romane(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

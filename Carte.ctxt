@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Carte
+comment1.params=titlu\ autor\ Pag
+comment1.target=Carte(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTitlu()
+comment3.params=
+comment3.target=java.lang.String\ getAutor()
+comment4.params=
+comment4.target=int\ getPag()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
